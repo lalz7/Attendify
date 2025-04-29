@@ -1,0 +1,11 @@
+env/
+*.rar
+*.pyc
+__pycache__/
+env/
+*.rar
+*.dll
+*.pyd
+__pycache__/
+*.pyc
+node_modules/
